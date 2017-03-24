@@ -1,7 +1,7 @@
 /**
  * 
  */
-package jsycbc.github.com.bean.annotation;
+package jsycbc.github.com.bean.java.annotation;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

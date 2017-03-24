@@ -1,7 +1,7 @@
 /**
  * 
  */
-package jsycbc.github.com.bean.support.xml.constructor;
+package jsycbc.github.com.bean.xml.support.xml.constructor;
 
 /**
  * @author bianchao

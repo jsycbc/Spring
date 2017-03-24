@@ -5,10 +5,10 @@
 	<bean
 		class="org.springframework.context.annotation.CommonAnnotationBeanPostProcessor" />
 	<bean id="MessagePrinter"
-		class="jsycbc.github.com.bean.support.xml.annotation.MessagePrinter">
+		class="jsycbc.github.com.bean.xml.support.xml.annotation.MessagePrinter">
 	</bean>
 	<bean id="MessageService"
-		class="jsycbc.github.com.bean.support.xml.annotation.MessageService">
+		class="jsycbc.github.com.bean.xml.support.xml.annotation.MessageService">
 	</bean>
 
 </beans>

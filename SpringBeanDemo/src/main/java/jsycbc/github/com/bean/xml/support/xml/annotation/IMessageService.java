@@ -1,7 +1,7 @@
 /**
  * 
  */
-package jsycbc.github.com.bean.support.xml.annotation;
+package jsycbc.github.com.bean.xml.support.xml.annotation;
 
 /**
  * @author bianchao

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src/main/java"/>
-	<classpathentry kind="src" path="src/test/java"/>
 	<classpathentry kind="src" path="src/main/resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-framework-lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SPRING_LIB"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/common-lib"/>
+	<classpathentry kind="lib" path="D:/workspace/lib/commons-logging-1.0.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

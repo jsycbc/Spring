@@ -1,7 +1,7 @@
 /**
  * 
  */
-package jsycbc.github.com.bean.support.xml.annotation;
+package jsycbc.github.com.bean.xml.support.xml.annotation;
 
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

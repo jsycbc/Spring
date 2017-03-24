@@ -1,7 +1,7 @@
 /**
  * 
  */
-package jsycbc.github.com.bean.support.xml.property;
+package jsycbc.github.com.bean.xml.support.xml.property;
 
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
